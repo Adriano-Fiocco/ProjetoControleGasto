@@ -1,0 +1,151 @@
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.exe
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.deps.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.dev.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.GenerateResource.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ref\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.genruntimeconfig.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmControleGasto.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoa.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceita.resources
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.exe
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.deps.json
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.json
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.dev.json
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ref\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmControleGasto.resources
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoa.resources
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceita.resources
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.GenerateResource.cache
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ref\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.genruntimeconfig.cache
+C:\Users\adriano.hcfiocco\Desktop\Projeto Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDispesa.resources
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.exe
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.deps.json
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.json
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.dev.json
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmControleGasto.resources
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDispesa.resources
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoa.resources
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceita.resources
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.GenerateResource.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CopyComplete
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\refint\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.genruntimeconfig.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ref\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CopyComplete
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\refint\ControleGastoAppWin.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.exe
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.dev.json
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmControleGasto.resources
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDispesa.resources
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoa.resources
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceita.resources
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CopyComplete
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\refint\ControleGastoAppWin.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ref\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.Properties.Resources.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoaConsulta.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceitaConsulta.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDespesa.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDespesaConsulta.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.exe
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.deps.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.runtimeconfig.dev.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\bin\Debug\net5.0-windows\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmControleGasto.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDespesa.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmDespesaConsulta.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoa.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmPessoaConsulta.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceita.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmReceitaConsulta.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.Properties.Resources.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.GenerateResource.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.csproj.CopyComplete
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\refint\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.genruntimeconfig.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ref\ControleGastoAppWin.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.frmAnalise.resources
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppWin\obj\Debug\net5.0-windows\ControleGastoAppWin.formAbertura.resources

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleGastoAppData", "ControleGastoAppData\ControleGastoAppData.csproj", "{03AE170B-9231-4BB2-9B1A-748A367ECD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleGastoAppWin", "ControleGastoAppWin\ControleGastoAppWin.csproj", "{DA618738-7558-4DCC-AB63-F67C77E844F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AE170B-9231-4BB2-9B1A-748A367ECD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AE170B-9231-4BB2-9B1A-748A367ECD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AE170B-9231-4BB2-9B1A-748A367ECD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AE170B-9231-4BB2-9B1A-748A367ECD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA618738-7558-4DCC-AB63-F67C77E844F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA618738-7558-4DCC-AB63-F67C77E844F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA618738-7558-4DCC-AB63-F67C77E844F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA618738-7558-4DCC-AB63-F67C77E844F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25D3D50-1FA4-4368-829B-B906803F075C}
+	EndGlobalSection
+EndGlobal

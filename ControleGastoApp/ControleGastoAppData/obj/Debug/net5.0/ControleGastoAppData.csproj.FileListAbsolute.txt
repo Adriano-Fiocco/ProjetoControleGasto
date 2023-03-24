@@ -1,0 +1,48 @@
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.deps.json
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\refint\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\Desktop\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ref\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.deps.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\refint\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ref\ControleGastoAppData.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\refint\ControleGastoAppData.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ControleGastoApp\ControleGastoAppData\obj\Debug\net5.0\ref\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.deps.json
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\bin\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.AssemblyReference.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfoInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.AssemblyInfo.cs
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.csproj.CoreCompileInputs.cache
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\refint\ControleGastoAppData.dll
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ControleGastoAppData.pdb
+C:\Users\adriano.hcfiocco\source\repos\ControleGastoApp Versao4.0\ControleGastoAppData\obj\Debug\net5.0\ref\ControleGastoAppData.dll
